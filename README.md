@@ -1,6 +1,7 @@
 # slate - Clean & Modern Desktop
 
 <img width="1920" height="1080" alt="Screenshot From 2025-12-27 02-55-49" src="https://github.com/user-attachments/assets/b56ced6b-ebdb-4756-afad-92e44014c716" />
+<img width="1920" height="1080" alt="Screenshot From 2025-12-27 03-38-15" src="https://github.com/user-attachments/assets/936ec4ec-8069-4896-b285-82829890957e" />
 
 nbsp&
 
